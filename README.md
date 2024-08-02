@@ -3,9 +3,9 @@
 Hola y bienvenido a mi repositorio, en este mismo voy a estar escribiendo artículos acerca de todos los temas que mencionan en el sitio web de [Roadmap Frontend Developer](https://roadmap.sh/frontend) para demostrar todo mi conocimiento sobre el desarrollo web frontend.
 
 ## Temario
-- [[internet/README|Internet]]
+- [Internet](internet/README.md)
 
-> [!IMPORTANT] IMPORTANTE
+> [!IMPORTANT]
 > El contenido de este temario va a seguir creciendo hasta terminar por completo la ruta de roadmap.sh
 
 ## Estructura del repositorio
