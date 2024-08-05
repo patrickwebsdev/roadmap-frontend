@@ -3,7 +3,7 @@
 Un navegador es una aplicación la cual te permite acceder a los sitios web, interpretando diferentes tipos de archivos para que estos puedan ser vistos.
 
 ### Navegadores web
-Entre ellos estan:
+Entre ellos están:
 - Brave
 - Google Chrome
 - Mozilla Firefox
@@ -17,8 +17,8 @@ Estos son los mas comunes y la mayoría están basados en chromium, un proyecto 
 
 Los navegadores envían y reciben información por la web a través del protocolo [HTTP](./Que-es-HTTP.md).
 
-Para pintar la informacion en los navegadores utilizan una interfaz de usuario que contiene botones, imagenes y demas elementos, el cual es denominado frontend.
+Para pintar la información en los navegadores utilizan una interfaz de usuario que contiene botones, imágenes y demás elementos, el cual es denominado frontend.
 
 Por otro lado, los navegadores para enviar y recibir datos tienen un lado menos visible el cual se denomina backend, el cual esta conformado por ciertos servicios, como servidores, base de datos, cdn's, entre otros.
 
-![[image5.png]]
+![Funcionalidad de un navegador](Images/image5.png)

@@ -8,8 +8,7 @@ Un hosting es una computadora física la cual funciona 24/7 para que tu sitio we
 
 Cada vez que alguien escribe tu nombre de dominio en su navegador, tu servidor se encarga de responder el contenido necesario que el navegador solicita para mostrar tu sitio web.
 
-![[image6.png]]
-
+![Funcionamiento de un hosting](Images/image6.png)
 
 # ¿Qué tipos de hosting existen?
 

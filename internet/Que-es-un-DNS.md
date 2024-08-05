@@ -13,5 +13,5 @@ Por ejemplo, si nosotros tenemos el dominio patricioalmada.com.ar, ese dominio i
 ### Tipos de servidores DNS
 
 - Primarios: Estos almacenan los datos sobre los nombres de dominio en sus propios archivos.
-- Secundarios: Obtienen los datos de los servidores primarios a traves de una transferencia de zona.
+- Secundarios: Obtienen los datos de los servidores primarios a través de una transferencia de zona.
 - Locales o cache: No contienen la base de datos, cuando se les realiza una consulta, estos a su vez consultan a otros servidores DNS y almacenan la respuesta en su base de datos para peticiones futuras.

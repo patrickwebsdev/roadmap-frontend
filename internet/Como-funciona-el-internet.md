@@ -8,7 +8,7 @@ El internet es una red de computadoras que están conectadas entre si por medio 
 
 # Cable y Wi-Fi
 
-La forma en la que las computadoras se comunican es en formato de bits a través de diversos métodos, entre ellos están cables Ethernet, fibra óptica o señales inalambricas (Wi-FI).
+La forma en la que las computadoras se comunican es en formato de bits a través de diversos métodos, entre ellos están cables Ethernet, fibra óptica o señales inalámbricas (Wi-FI).
 
 --------------------------------------------------
 
