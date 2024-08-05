@@ -1,6 +1,6 @@
-# Empecemos por el inicio, ¿que es el internet?
+# Empecemos por el inicio, ¿Qué es el internet?
 
-El internet es una red de computadoras que estan conectadas entre si por medio de un protocolo estandarizado que les permite comunicarse.
+El internet es una red de computadoras que están conectadas entre si por medio de un protocolo estandarizado que les permite comunicarse.
 
 ![Concepto del internet](Images/image1.jpeg)
 

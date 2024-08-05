@@ -1,6 +1,6 @@
-# ¿Que es un nombre de dominio?
+# ¿Qué es un nombre de dominio?
 
-Un dominio es un nombre único que identifica nuestro sitio web, su función es facilitarnos el ingreso a los sitios web, ya que de lo contrario tendríamos que memorizar números por cada sitio web y esto es imposible (Ademas de que ciertos sitios web cambian de IP diatónicamente)
+Un dominio es un nombre único que identifica nuestro sitio web, su función es facilitarnos el ingreso a los sitios web, ya que de lo contrario tendríamos que memorizar números por cada sitio web y esto es imposible (Además de que ciertos sitios web cambian de IP diatónicamente)
 
 # ¿Que es un subdominio?
 

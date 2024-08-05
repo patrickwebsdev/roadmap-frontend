@@ -1,4 +1,4 @@
-# ¿Que es el protocolo HTTP? (Hyper Text Transfer Protocolo)
+# ¿Qué es el protocolo HTTP? (Hyper Text Transfer Protocolo)
 
 El HTTP es el protocolo por el cual se transmite el HTML (Hyper Text Markup Lenguage), los navegadores web utilizan este protocolo para solicitar las paginas webs que visitamos a los servidores.
 

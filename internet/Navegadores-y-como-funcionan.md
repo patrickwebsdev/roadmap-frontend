@@ -1,4 +1,4 @@
-# ¿Que es un navegador?
+# ¿Qué es un navegador?
 
 Un navegador es una aplicación la cual te permite acceder a los sitios web, interpretando diferentes tipos de archivos para que estos puedan ser vistos.
 

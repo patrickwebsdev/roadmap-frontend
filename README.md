@@ -10,7 +10,7 @@ Hola y bienvenido a mi repositorio, en este mismo voy a estar escribiendo artíc
 
 ## Estructura del repositorio
 
-La estructura del reposto sera la siguiente:
+La estructura del repositorio será la siguiente:
 - `/tema`: Carpeta que contendrá un tema en especifico (Cada una de las burbujas amarillas en roadmap.sh)
 - `/tema/articulo`: Dentro de cada carpeta de un tema, estará un articulo relacionado a ese tema en particular
 - `/tema/README.md`: Dentro de cada carpeta de un tema, existirá un archivo README el cual contendrá todo el temario de ese tema
