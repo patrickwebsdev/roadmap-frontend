@@ -17,7 +17,7 @@ La forma en la que las computadoras se comunican es en formato de bits a través
 Los bits corresponden a un dígito del sistema de numeración binario que puede estar conformado por 0 o 1 y es la unidad mínima de información.
 El nombre viene por una abreviación de "binary digit" o "dígito binario"
 
-![Que son los bits](Images/image2.png)
+![Que son los bits](internet/Images/image2.png)
 
 
 # Paquetes y enrutamiento

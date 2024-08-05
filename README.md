@@ -4,6 +4,7 @@ Hola y bienvenido a mi repositorio, en este mismo voy a estar escribiendo artíc
 
 ## Temario
 - [Internet](internet/README.md)
+- [HTML](html/README.md)
 
 > [!IMPORTANT]
 > El contenido de este temario va a seguir creciendo hasta terminar por completo la ruta de roadmap.sh
